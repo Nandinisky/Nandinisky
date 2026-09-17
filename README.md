@@ -4,11 +4,11 @@
 
 Welcome to my GitHub profile!
 
-I am an aspiring Data Analyst with experience in customer support, reporting, and business operations. I enjoy working with data to identify trends, generate insights, and support better business decisions.
+I am a Data Analyst with experience in reporting, customer support, and business operations. I use Excel, SQL, Power Query, and data visualization techniques to analyze data, identify trends, build reports and dashboards, and generate actionable business insights.
 
 ## 🛠️ Skills & Tools
 
-- **Excel:** Pivot Tables, VLOOKUP, XLOOKUP, HLOOKUP, SUMPRODUCT, Dashboards, Data Cleaning
+- **Excel:** Pivot Tables, VLOOKUP, XLOOKUP, HLOOKUP, SUMPRODUCT, Dashboards, Data Cleaning, Power Query
 - **SQL:** MySQL, Joins, CTEs, Window Functions, Aggregations, Data Cleaning
 - **Data Analysis:** KPI Analysis, Sales Analysis, Customer Analysis, RFM Analysis
 - **Visualization:** Excel Dashboards, Charts & Interactive Reports
@@ -49,15 +49,13 @@ I am currently seeking opportunities in:
 
 ## 🌱 Currently Learning
 
-- Advanced SQL
-- Data Analytics
-- Business Intelligence
-- Data Visualization
-- POWERBI
+Power BI
+Business Intelligence
+Data Visualization
 
 ## 📫 Connect With Me
 
-- LinkedIn: 
+- LinkedIn: www.linkedin.com/in/nandini-sk-248144432
 - GitHub: You are here! 😊
 
 ---
