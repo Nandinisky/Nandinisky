@@ -55,8 +55,8 @@ Data Visualization
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/nandini-sk-248144432
-- GitHub: You are here! 😊
+- **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/nandini-sk-248144432/)
+- **GitHub:** You are here! 😊
 
 ---
 
