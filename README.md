@@ -1,6 +1,6 @@
 # Hi, I'm Nandini 👋
 
-### Aspiring Data Analyst | Excel | SQL | Data Visualization | Business Analytics
+### Data Analyst | Excel | SQL | Power Query | Data Visualization | Business Analytics
 
 Welcome to my GitHub profile!
 
